@@ -17,6 +17,15 @@ npm install body-parser@1.20.0 --save
 ```bash
 npm install prisma@5.13.0 --save-dev
 ```
+```bash
+npm install express-validator@7.1.0
+```
+```bash
+npm install multer@1.4.5-lts.1
+```
+```bash
+npm install crypto@1.0.1 
+```
 # To Run Nodjes
 ```bash
 nodemon index.js
